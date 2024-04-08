@@ -1,0 +1,100 @@
+.elementor-8 .elementor-element.elementor-element-cc85023 .knsl-banner .knsl-banner-content .knsl-main-title .knsl-main-title--h {
+    color: #fff;
+    font-size: 65px
+}
+
+.elementor-8 .elementor-element.elementor-element-cc85023 .knsl-banner .knsl-banner-content .knsl-main-title .knsl-main-title--d {
+    color: #e9e9e9
+}
+
+.elementor-8 .elementor-element.elementor-element-cc85023 .knsl-banner-buttons .knsl-btn {
+    background-color: #fff;
+    color: #78cc6d;
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px
+}
+
+.elementor-8 .elementor-element.elementor-element-e440a76 {
+    padding: 150px 0 0
+}
+
+.elementor-8 .elementor-element.elementor-element-d619e87 .knsl-title-frame .knsl-title--h {
+    font-size: 50px
+}
+
+.elementor-8 .elementor-element.elementor-element-68a6f6b {
+    padding: 150px 0 0
+}
+
+.elementor-8 .elementor-element.elementor-element-4767327 {
+    padding: 150px 0 0
+}
+
+.elementor-8 .elementor-element.elementor-element-997afe4 .knsl-title-frame .knsl-title--h {
+    font-size: 50px
+}
+
+.elementor-8 .elementor-element.elementor-element-560504b {
+    margin-top: 0;
+    margin-bottom: 50px
+}
+
+.elementor-8 .elementor-element.elementor-element-b849016:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-b849016>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000
+}
+
+.elementor-8 .elementor-element.elementor-element-b849016 .elementor-background-overlay {
+    filter: brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg)
+}
+
+.elementor-8 .elementor-element.elementor-element-b849016 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-8 .elementor-element.elementor-element-b849016>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-8 .elementor-element.elementor-element-48a8239>.elementor-background-overlay {
+    background-image: url("https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/footerbg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .8
+}
+
+.elementor-8 .elementor-element.elementor-element-48a8239 {
+    padding: 150px 0 120px
+}
+
+.elementor-8 .elementor-element.elementor-element-5caac5d .knsl-title-frame .knsl-title--h {
+    color: #fff;
+    font-size: 50px
+}
+
+@media(min-width:1025px) {
+    .elementor-8 .elementor-element.elementor-element-48a8239>.elementor-background-overlay {
+        background-attachment: fixed
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-8 .elementor-element.elementor-element-cc85023 .knsl-banner .knsl-banner-content .knsl-main-title .knsl-main-title--h {
+        font-size: 40px
+    }
+    .elementor-8 .elementor-element.elementor-element-d619e87 .knsl-title-frame .knsl-title--h {
+        font-size: 35px
+    }
+    .elementor-8 .elementor-element.elementor-element-997afe4 .knsl-title-frame .knsl-title--h {
+        font-size: 35px
+    }
+    .elementor-8 .elementor-element.elementor-element-6c497e2 .knsl-title-frame .knsl-title--h {
+        font-size: 30px
+    }
+    .elementor-8 .elementor-element.elementor-element-5caac5d .knsl-title-frame .knsl-title--h {
+        font-size: 40px
+    }
+}
